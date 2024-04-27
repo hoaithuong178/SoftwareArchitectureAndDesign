@@ -27,10 +27,10 @@ Pipeline gồm hai chức năng chính: phân tích đa thức và xử lý đa 
    - `pipelineEvaluate`: Áp dụng chuỗi chức năng từ phân tích đến tính giá trị đa thức tại một giá trị x cụ thể. 
 
 - Code thực thi:
-![image](/output/code.png)
+![image](./output/code.png)
 
 - Kết quả:
-![image](/output/output_pipeline.png)
+![image](./output/output_pipeline.png)
 
 ## Quy trình thực hiện
-![image](/output/pipeline.png)
+![image](./output/pipeline.png)
