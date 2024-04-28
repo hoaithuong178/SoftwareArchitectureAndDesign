@@ -1,0 +1,6 @@
+rootProject.name = 'sa-microkernel-sample'
+include 'module01'
+include 'module02'
+include 'module03'
+include 'FrenchLanguage'
+
